@@ -1,6 +1,6 @@
 # UIKitConfigurator
 
-This package is about a collection of extensions to help to configurate components from UIKit.
+This package is about a collection of extensions to help to configure components from UIKit.
 
 ## Example
 
